@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Celi Rojas</h1>
 <h3 align="center">I'm a learning web developer from Argentina</h3>
 
-- 🔭 I’m currently working on [Florida Cupcakes](https://celirojas.github.io/proyectoCoder/htmls/)
+- 🔭 I’m currently working on developing my coding skills at Digital House.
 
-- 🌱 I’m currently learning: **Javascript and Java**
+- 🌱 I’m currently learning: **Javascript and React**
 
 - 👨‍💻 All of my projects are available at [https://celirojas.github.io/](https://celirojas.github.io/)
 
