@@ -5,11 +5,11 @@
 
 - 🌱 I’m currently learning: **Javascript and React**
 
-- 👨‍💻 All of my projects are available at [https://celirojas.github.io/](https://celirojas.github.io/)
+- 👨‍💻 All of my projects are available at [my porfolio](https://celirojas.github.io/portfolio-celi/)
 
 - 📫 How to reach me **mcelinarojas@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/mar%C3%ADa-celina-rojas-0541a1202/](https://www.linkedin.com/in/mar%C3%ADa-celina-rojas-0541a1202/)
+- 📄 Know about my experiences [Linkedin](https://www.linkedin.com/in/celina-rojas/)
 
 - ⚡ Fun fact **I love playing soccer ⚽**
 
