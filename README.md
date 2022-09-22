@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on developing my coding skills at Digital House.
 
-- 🌱 I’m currently learning: **Java**
+- 🌱 I’m currently learning: **React**
 
 - 👨‍💻 All of my projects are available at [my porfolio](https://celirojas.github.io/portfolio-celi/)
 
